@@ -1,4 +1,5 @@
-## covid19-dashboard:: Statewide representation of covid cases, no. of confirmed, cured and dead patients, graphical representation of
+## covid19-dashboard:: 
+Statewide representation of covid cases, no. of confirmed, cured and dead patients, graphical representation of
 number of people who appeared for first and second dose, number of ICMR test labs needed according to ongoing
 situation
 
